@@ -11,15 +11,14 @@ Welcome to the RG Store project, an e-commerce website for electronics enthusias
 ## Team Members
 
 - **Project Lead**: [Shaikh Moin](https://github.com/Skmoin5502)
-- **Logo Design**: [Kaif Shariff](https://github.com/Kaif-Shariff)
-- **Contact Us Page**: [Sanket Ram](https://github.com/Cypher95)
 - **Frontend Design**: [Kaif Shariff](https://github.com/Kaif-Shariff)
-- **Footer Design**: Sarthak Humbare
-- **About Us Page**: Nathani Mohammed Abbas, Ashish Jadhav
-- **Login/Registration Page**: Haider Khaminwala
-- **Buy Now Page**: Vinit Sawant
-- **Add to Cart Feature**: Yogesh Jadhav
-- **Product Pages**: [Nitesh Raut](https://github.com/Nitu24), [Shaikh Moin](https://github.com/Skmoin5502)
+-  Database : [Vinit Sawant](https://github.com/VINITSAWANT01)
+-  Cart Functions : [Vinit Sawant](https://github.com/VINITSAWANT01)
+- **Logo Design** : [Kaif Shariff](https://github.com/Kaif-Shariff)
+- Product Pages : [Nitesh Raut](https://github.com/Nitu24)
+  
+
+
 
 ## Project Description
 
